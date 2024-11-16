@@ -1,7 +1,4 @@
-# GenAI-For-All-Students
-
-**Projects**
-# Smart-AI-Task-Manager
+# Project : Smart-AI-Task-Manager
   This project demonstrates how to use Ollama and Spring AI to generate tasks,  prioritize according to deadlines and commitment time needed to finish tasks. 
   Since, Ollama is a free, open-source tool that allows users to run large  language models (LLMs) locally on their own machine. So, its free of cost and 
   free of internet connection for its usage and suitable for all the students all over the world.
